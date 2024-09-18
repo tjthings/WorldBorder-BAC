@@ -1,45 +1,44 @@
 Totals: 577 Tasks, 327 Goals, 238 Challenges
 Overall: 6972 blocks
-minecraft:adventure - 289 blocks
-	24 Tasks, 9 Goals, 11 Challenges
-minecraft:end - 44 blocks
-	4 Tasks, 4 Goals, 1 Challenges
-minecraft:husbandry - 140 blocks
-	20 Tasks, 4 Goals, 5 Challenges
-minecraft:nether - 147 blocks
-	12 Tasks, 7 Goals, 5 Challenges
-minecraft:story - 32 blocks
-	12 Tasks, 4 Goals, 0 Challenges
-blazeandcave:adventure - 518 blocks
-	58 Tasks, 36 Goals, 14 Challenges
-blazeandcave:animal - 520 blocks
-	65 Tasks, 35 Goals, 14 Challenges
-blazeandcave:bacap - 102 blocks
-	7 Tasks, 15 Goals, 1 Challenges
-blazeandcave:biomes - 259 blocks
-	34 Tasks, 17 Goals, 7 Challenges
-blazeandcave:building - 349 blocks
-	69 Tasks, 32 Goals, 6 Challenges
 blazeandcave:challenges - 760 blocks
 	0 Tasks, 0 Goals, 38 Challenges
-blazeandcave:enchanting - 521 blocks
-	6 Tasks, 27 Goals, 19 Challenges
-blazeandcave:end - 319 blocks
-	14 Tasks, 9 Goals, 13 Challenges
-blazeandcave:farming - 204 blocks
-	39 Tasks, 13 Goals, 5 Challenges
-blazeandcave:mining - 572 blocks
-	47 Tasks, 25 Goals, 20 Challenges
 blazeandcave:monsters - 586 blocks
 	31 Tasks, 23 Goals, 22 Challenges
-blazeandcave:nether - 455 blocks
-	40 Tasks, 27 Goals, 14 Challenges
-blazeandcave:potion - 133 blocks
-	18 Tasks, 3 Goals, 5 Challenges
-blazeandcave:redstone - 247 blocks
-	32 Tasks, 7 Goals, 9 Challenges
+blazeandcave:mining - 572 blocks
+	47 Tasks, 25 Goals, 20 Challenges
+blazeandcave:enchanting - 521 blocks
+	6 Tasks, 27 Goals, 19 Challenges
+blazeandcave:animal - 520 blocks
+	65 Tasks, 35 Goals, 14 Challenges
+blazeandcave:adventure - 518 blocks
+	58 Tasks, 36 Goals, 14 Challenges
 blazeandcave:statistics - 495 blocks
 	20 Tasks, 19 Goals, 19 Challenges
+blazeandcave:nether - 455 blocks
+	40 Tasks, 27 Goals, 14 Challenges
+blazeandcave:building - 349 blocks
+	69 Tasks, 32 Goals, 6 Challenges
+blazeandcave:end - 319 blocks
+	14 Tasks, 9 Goals, 13 Challenges
+minecraft:adventure - 289 blocks
+	24 Tasks, 9 Goals, 11 Challenges
 blazeandcave:weaponry - 280 blocks
 	25 Tasks, 11 Goals, 10 Challenges
-	
+blazeandcave:biomes - 259 blocks
+	34 Tasks, 17 Goals, 7 Challenges
+blazeandcave:redstone - 247 blocks
+	32 Tasks, 7 Goals, 9 Challenges
+blazeandcave:farming - 204 blocks
+	39 Tasks, 13 Goals, 5 Challenges
+minecraft:nether - 147 blocks
+	12 Tasks, 7 Goals, 5 Challenges
+minecraft:husbandry - 140 blocks
+	20 Tasks, 4 Goals, 5 Challenges
+blazeandcave:potion - 133 blocks
+	18 Tasks, 3 Goals, 5 Challenges
+blazeandcave:bacap - 102 blocks
+	7 Tasks, 15 Goals, 1 Challenges
+minecraft:end - 44 blocks
+	4 Tasks, 4 Goals, 1 Challenges
+minecraft:story - 32 blocks
+	12 Tasks, 4 Goals, 0 Challenges
